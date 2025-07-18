@@ -19,4 +19,4 @@ A web-based system for managing events at Naresuan University. It supports event
 ## 🚀 Installation & Usage
 1. Clone the project:
    ```bash
-   git clone https://github.com/your-username/university-events.git
+   git clone https://github.com/Kanokwannn/EventNU.git
