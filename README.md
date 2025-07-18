@@ -1,22 +1,22 @@
-# 🎓 University Event Management System
+# 🎓 Naresuan University Event Management System
 
-ระบบดูและจัดการอีเว้นท์ภายในมหาวิทยาลัยนเรศวร รองรับทั้งการจองตั๋ว ชำระเงิน และการขอประชาสัมพันธ์อีเว้นท์
+A web-based system for managing events at Naresuan University. It supports event browsing, ticket booking, payment, and event promotion requests.
 
-## 📌 คุณสมบัติ (Features)
-- 🔍 ดูอีเว้นท์ที่จัดภายในมหาวิทยาลัย
-- 🎟 จองตั๋วเข้าร่วมกิจกรรมออนไลน์
-- 💳 แนบสลิปหรือชำระเงินค่าตั๋ว
-- 📢 ส่งคำขอจัดอีเว้นท์หรือประชาสัมพันธ์กิจกรรมของคุณ
-- 👥 มีระบบแยกบทบาทผู้ใช้ (เช่น ผู้ใช้ทั่วไป, ผู้ดูแลระบบ)
+## 📌 Features
+- 🔍 View upcoming events organized within the university
+- 🎟 Book tickets for events online
+- 💳 Upload payment slips for ticket confirmation
+- 📢 Submit requests to promote or organize new events
+- 👥 User role separation (e.g., General User, Admin)
 
-## 🛠️ เทคโนโลยีที่ใช้
+## 🛠️ Technologies Used
 - Frontend: HTML, CSS, JavaScript, Bootstrap
 - Backend: PHP
 - Database: MySQL (phpMyAdmin)
-- UI/UX: Figma
-- เครื่องมือ: VSCode, Git, GitHub, AppServ
+- UI/UX Design: Figma
+- Tools: VSCode, Git, GitHub, AppServ
 
-## 🚀 วิธีติดตั้งและใช้งาน (Installation)
-1. Clone โปรเจกต์:
+## 🚀 Installation & Usage
+1. Clone the project:
    ```bash
    git clone https://github.com/your-username/university-events.git
